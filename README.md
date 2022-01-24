@@ -340,6 +340,16 @@
     1. Mongo DB Driver and Documentations: https://docs.mongodb.com/drivers/node/current/
     2. Install `npm i mongodb` driver to connect with Mongo DB
 
+
+## Mongo DB Operations
+
+### CREATE
+```js
+
+
+```
+
+
 ## Mongo DB Usage
 ```js
 const mongodb = require("mongodb");
